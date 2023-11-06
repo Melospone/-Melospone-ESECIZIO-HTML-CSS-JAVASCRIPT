@@ -1,0 +1,135 @@
+/* Your styles here */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  background-color: rgb(224, 223, 223);
+}
+
+
+h6 {
+  font-size: 15px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+#testataLogo {
+  margin: 0 auto;
+  background-color: rgb(22, 31, 61);
+}
+
+#logo {
+  margin: 10px 5px 5px 5px;
+  width: 5%;
+}
+
+#navBar {
+  background-color: rgb(38, 54, 107);
+  padding-bottom: 5px;
+}
+
+p {
+  display: inline;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  padding-left: 10px;
+  margin-top: 10px;
+}
+
+/* MAIN */
+
+#giftCards {
+  background-color: rgb(200, 113, 20);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 15px;
+  text-align: center;
+  color: white;
+}
+
+#holiday {
+  background-image: url(../images/bg-image.png);
+  color: white;
+  text-align: center;
+  margin: 15px;
+}
+
+#holiday h1 {
+  padding-top: 50px;
+}
+#holiday h6 {
+  padding-bottom: 20px;
+}
+
+span {
+  color: rgb(14, 14, 250);
+  font-size: 10px;
+}
+/* CARDS */
+/* ho un problema nel dare lo stesso spazio alle immagini all'interno di un contenitore  */
+
+#h66 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-left: 15px;
+  text-align: left;
+}
+
+#find {
+  margin: 15px;
+  color: black;
+}
+
+#contenitoreCards {
+  background-color: white;
+  margin: 15px;
+  text-align: center;
+  display: inline-block;
+  height: 100%;
+}
+
+.card {
+  width: 22.5%;
+  border-radius: 15%;
+  padding: 0px 10px 30px 10px;
+}
+
+/* le 2 immagini grandi */
+
+#vr {
+  margin: 15px;
+  text-align: center;
+}
+
+#cassa {
+  margin: 15px;
+  text-align: center;
+}
+
+/* torna su */
+
+#tornaSu {
+  background-color: rgb(38, 54, 107);
+  text-align: center;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+#TornaSu,
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
+
+/* FOOTER */
+
+#divFooter {
+  margin: 0 auto;
+  background-color: rgb(22, 31, 61);
+  text-align: center;
+}
+
+#immagineFooter {
+  padding-top: 10px;
+  width: 8%;
+}
